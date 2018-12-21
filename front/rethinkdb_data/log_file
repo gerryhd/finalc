@@ -1,0 +1,45 @@
+2018-11-15T10:11:33.664148749 0.202464s notice: Recursively removing directory /home/gerry/Documents/finalc/front/rethinkdb_data/tmp
+2018-11-15T10:11:33.717626078 0.255946s notice: Initializing directory /home/gerry/Documents/finalc/front/rethinkdb_data
+2018-11-15T10:11:33.717897910 0.256211s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/gerry/Documents/finalc/front/rethinkdb_data' did not already exist or is empty.)
+2018-11-15T10:11:33.718740269 0.257056s notice: Running rethinkdb 2.3.6.srh.1~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2018-11-15T10:11:33.725582238 0.263900s notice: Running on Linux 4.15.0-36-generic x86_64
+2018-11-15T10:11:33.725688103 0.264001s notice: Loading data from directory /home/gerry/Documents/finalc/front/rethinkdb_data
+2018-11-15T10:11:34.257030311 0.795352s info: Automatically using cache size of 4653 MB
+2018-11-15T10:11:34.270964148 0.809278s notice: Listening for intracluster connections on port 29015
+2018-11-15T10:11:34.281802557 0.820117s notice: Listening for client driver connections on port 28015
+2018-11-15T10:11:34.282095286 0.820409s notice: Listening for administrative HTTP connections on port 8080
+2018-11-15T10:11:34.282104182 0.820417s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-11-15T10:11:34.282113198 0.820426s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-11-15T10:11:34.282118261 0.820431s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-11-15T10:11:34.282126501 0.820440s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-11-15T10:11:34.282134305 0.820448s notice: Server ready, "gerry_acer_7y7" e6862eee-0253-4237-9b26-b6ce635657c4
+2018-11-15T10:13:29.795714491 116.334028s info: Table b6652a60-59cd-4133-983f-8254dd36a0b2: Starting a new Raft election for term 1.
+2018-11-15T10:13:29.796040828 116.334354s info: Table b6652a60-59cd-4133-983f-8254dd36a0b2: Added replica on this server.
+2018-11-15T10:13:29.868979149 116.407294s info: Table b6652a60-59cd-4133-983f-8254dd36a0b2: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T10:14:26.165084131 172.703399s info: Table 0721b124-a88e-4f73-8e70-69a5b2aa4e3f: Starting a new Raft election for term 1.
+2018-11-15T10:14:26.165597169 172.703911s info: Table 0721b124-a88e-4f73-8e70-69a5b2aa4e3f: Added replica on this server.
+2018-11-15T10:14:26.238423406 172.776737s info: Table 0721b124-a88e-4f73-8e70-69a5b2aa4e3f: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:12:01.074001876 3627.612316s info: Table a70f0e2a-db85-414d-8eea-7cf372bb6954: Starting a new Raft election for term 1.
+2018-11-15T11:12:01.123635957 3627.661950s info: Table a70f0e2a-db85-414d-8eea-7cf372bb6954: Added replica on this server.
+2018-11-15T11:12:01.123783162 3627.662097s info: Table 07b5be52-973c-42f9-ade8-001525074963: Starting a new Raft election for term 1.
+2018-11-15T11:12:01.172866567 3627.711181s info: Table 07b5be52-973c-42f9-ade8-001525074963: Added replica on this server.
+2018-11-15T11:12:01.173283971 3627.711597s info: Table 8d30164b-6e26-4604-95f9-9264e0546569: Starting a new Raft election for term 1.
+2018-11-15T11:12:01.173854700 3627.712168s info: Table 8d30164b-6e26-4604-95f9-9264e0546569: Added replica on this server.
+2018-11-15T11:12:01.257405336 3627.795719s info: Table a70f0e2a-db85-414d-8eea-7cf372bb6954: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:12:01.257552969 3627.795866s info: Table 07b5be52-973c-42f9-ade8-001525074963: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:12:01.257600801 3627.795914s info: Table 8d30164b-6e26-4604-95f9-9264e0546569: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:13:28.713470876 3715.251785s notice: Removing file /home/gerry/Documents/finalc/front/rethinkdb_data/07b5be52-973c-42f9-ade8-001525074963
+2018-11-15T11:13:28.713485964 3715.251799s info: Table 07b5be52-973c-42f9-ade8-001525074963: Deleted the table.
+2018-11-15T11:13:28.880146940 3715.418461s notice: Removing file /home/gerry/Documents/finalc/front/rethinkdb_data/8d30164b-6e26-4604-95f9-9264e0546569
+2018-11-15T11:13:28.880167294 3715.418481s info: Table 8d30164b-6e26-4604-95f9-9264e0546569: Deleted the table.
+2018-11-15T11:13:28.964998749 3715.503313s notice: Removing file /home/gerry/Documents/finalc/front/rethinkdb_data/a70f0e2a-db85-414d-8eea-7cf372bb6954
+2018-11-15T11:13:28.965016656 3715.503330s info: Table a70f0e2a-db85-414d-8eea-7cf372bb6954: Deleted the table.
+2018-11-15T11:13:30.325785750 3716.864100s info: Table b4c1a55f-f710-4836-af4f-7109511fe3dc: Starting a new Raft election for term 1.
+2018-11-15T11:13:30.325975675 3716.864289s info: Table b4c1a55f-f710-4836-af4f-7109511fe3dc: Added replica on this server.
+2018-11-15T11:13:30.375142042 3716.913456s info: Table b4fc4b44-b0d8-436f-bd33-64fb61184b9f: Starting a new Raft election for term 1.
+2018-11-15T11:13:30.375443118 3716.913757s info: Table b4fc4b44-b0d8-436f-bd33-64fb61184b9f: Added replica on this server.
+2018-11-15T11:13:30.375448495 3716.913762s info: Table 6c3407b3-9af5-4d8b-ae2e-1d30db18ad04: Starting a new Raft election for term 1.
+2018-11-15T11:13:30.375669645 3716.913983s info: Table 6c3407b3-9af5-4d8b-ae2e-1d30db18ad04: Added replica on this server.
+2018-11-15T11:13:30.448645604 3716.986960s info: Table b4c1a55f-f710-4836-af4f-7109511fe3dc: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:13:30.448745655 3716.987059s info: Table b4fc4b44-b0d8-436f-bd33-64fb61184b9f: This server is Raft leader for term 1. Latest log index is 0.
+2018-11-15T11:13:30.473363881 3717.011678s info: Table 6c3407b3-9af5-4d8b-ae2e-1d30db18ad04: This server is Raft leader for term 1. Latest log index is 0.
